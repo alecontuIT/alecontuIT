@@ -1,4 +1,4 @@
-# 👋 Hi, I’m [alecontu]([https://github.com/alecontuIT](https://alecontuit.github.io))
+# 👋 Hi, I’m [alecontu]([https://alecontuit.github.io])
 
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Sublime's custom image"/>
