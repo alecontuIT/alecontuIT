@@ -1,4 +1,4 @@
-# 👋 Hi, I’m [alecontu](https://github.com/alecontuIT)
+# 👋 Hi, I’m [alecontu]([https://github.com/alecontuIT](https://alecontuit.github.io))
 
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Sublime's custom image"/>
@@ -10,6 +10,7 @@ I'm currently a *computer science and engineering* master student at [Politecnic
 Some contact information:
 - [Linkedin](https://www.linkedin.com/in/alecontu/)
 - [Instagram](https://www.instagram.com/ale.contu/)
+- [Personal Website](https://alecontuit.github.io)
 
 
 <!---
