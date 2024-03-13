@@ -5,7 +5,7 @@
 </p>
 
 
-I'm currently a *computer science and engineering* master student at [Politecnico di Milano](https://www.polimi.it/). 
+I just completed my master degree in *computer science and engineering* at [Politecnico di Milano](https://www.polimi.it/). 
 
 Some contact information:
 - [Linkedin](https://www.linkedin.com/in/alecontu/)
